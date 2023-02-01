@@ -9,7 +9,7 @@
 
 ## 📕 About
 
-### **Snapclima** is a program that, through your current location or the place you type, shows the thermal sensation, wind speed, humidity, the time of sunrise and sunset.
+**Snapclima** is a program that, through your current location or the place you type, shows the thermal sensation, wind speed, humidity, the time of sunrise and sunset.
 
 <br>
 
